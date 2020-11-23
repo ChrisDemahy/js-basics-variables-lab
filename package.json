@@ -37,6 +37,8 @@
     "chai-spies-next": "^0.9.3"
   },
   "dependencies": {
+    "nodemon": "^2.0.6",
+    "nyc": "^15.1.0",
     "sinon": "^7.3.2"
   }
 }
